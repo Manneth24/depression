@@ -1,0 +1,297 @@
+,Gender,Age,Weight,sleep_problems,suicide_attempts,shock,related_diseases,Academic_performance,dipression_ratio
+0,male,20,80,no,yes,yes,no,yes,10
+1,male,21,78,sometimes,no,no,no,no,6
+2,female,20,67,sometimes,no,no,no,no,7
+3,male,23,78,sometimes,no,no,no,yes,8
+4,male,22,78,no,yes,no,yes,not student,1
+5,female,19,65,no,no,yes,no,no,7
+6,female,19,,sometimes,yes,no,no,yes,6
+7,male,20,,sometimes,no,no,no,yes,8
+8,female,21,50,sometimes,no,yes,no,no,2
+9,female,20,55,yes,no,yes,no,yes,5
+10,male,19,76,yes,yes,yes,no,yes,6
+11,female,22,73,sometimes,no,yes,no,no,3
+12,female,20,78,no,no,yes,no,yes,9
+13,male,20,66,no,no,no,no,no,3
+14,female,17,47,yes,no,yes,no,yes,8
+15,male,22,65,yes,no,no,no,yes,4
+16,female,18,50,no,yes,no,no,no,5
+17,female,20,,yes,no,yes,no,yes,5
+18,female,20,74,sometimes,yes,yes,no,yes,7
+19,male,20,58,sometimes,no,yes,no,yes,6
+20,male,20,69,sometimes,no,no,no,no,7
+21,male,23,90,no,no,no,no,no,10
+22,female,22,64,no,no,no,no,yes,10
+23,female,20,,yes,no,yes,no,yes,7
+24,female,19,59,sometimes,yes,no,no,no,5
+25,female,17,50,sometimes,yes,yes,yes,yes,8
+26,female,22,64,no,no,no,no,yes,10
+27,female,21,73,yes,no,yes,no,no,8
+28,male,25,52,yes,yes,no,no,yes,9
+29,female,21,70,no,no,yes,no,yes,6
+30,female,20,59,no,,no,no,yes,1
+31,male,22,77,sometimes,no,yes,no,yes,3
+32,male,29,,yes,no,yes,no,no,2
+33,female,18,55,sometimes,no,yes,no,yes,7
+34,female,22,,yes,no,yes,no,yes,9
+35,female,21,60,sometimes,no,yes,no,no,8
+36,female,23,52,sometimes,no,no,no,not student,5
+37,male,24,85,yes,no,no,no,yes,6
+38,female,19,69,yes,no,yes,no,no,8
+39,female,19,47,yes,yes,no,yes,yes,8
+40,female,24,159,sometimes,no,yes,no,yes,5
+41,female,18,,yes,no,no,yes,no,6
+42,female,19,70,sometimes,yes,yes,no,yes,9
+43,male,22,57,no,no,yes,no,not student,7
+44,male,22,65,no,no,no,no,no,5
+45,female,43,90,no,no,yes,no,not student,1
+46,female,20,60,no,no,yes,no,yes,4
+47,female,19,65,sometimes,no,yes,no,yes,4
+48,female,20,46,yes,no,yes,no,no,5
+49,male,22,57,yes,no,no,no,yes,1
+50,female,19,46,yes,yes,no,no,yes,8
+51,female,23,60,sometimes,no,no,no,no,7
+52,female,23,47,yes,no,yes,no,not student,2
+53,male,22,60,sometimes,no,no,no,no,1
+54,female,17,,sometimes,no,no,no,yes,3
+55,female,24,60,yes,no,no,yes,no,6
+56,female,21,50,yes,no,no,no,yes,4
+57,female,16,,sometimes,yes,yes,no,no,7
+58,female,17,60,sometimes,no,yes,no,yes,8
+59,female,17,,sometimes,no,yes,no,yes,6
+60,male,20,67,no,no,no,no,no,4
+61,male,17,70,no,no,no,no,no,1
+62,male,22,56,yes,no,no,yes,yes,5
+63,female,21,50,yes,no,no,no,yes,4
+64,male,22,56,yes,no,no,yes,yes,5
+65,female,32,68,yes,no,no,no,not student,5
+66,female,16,45,yes,no,yes,no,no,7
+67,female,20,62,no,no,no,no,yes,4
+68,male,21,63,no,no,yes,no,yes,2
+69,female,16,40,sometimes,no,yes,no,no,7
+70,female,19,80,sometimes,no,yes,no,no,9
+71,female,20,70,sometimes,no,no,no,yes,8
+72,female,19,65,sometimes,no,yes,no,no,5
+73,female,33,63,sometimes,no,yes,no,no,4
+74,female,19,63,sometimes,no,no,no,yes,8
+75,male,25,68,no,no,yes,no,yes,4
+76,male,101,202,yes,yes,yes,yes,yes,10
+77,female,20,57,no,no,yes,no,yes,9
+78,female,17,55,yes,no,yes,no,yes,3
+79,female,21,65,sometimes,no,no,no,yes,7
+80,female,22,58,sometimes,no,yes,no,no,5
+81,male,17,,yes,yes,no,yes,no,10
+82,male,21,90,yes,no,yes,no,yes,3
+83,male,16,90,no,no,yes,no,yes,5
+84,male,24,67,sometimes,no,yes,no,yes,6
+85,female,22,58,sometimes,yes,yes,no,no,9
+86,female,21,64,yes,no,no,no,yes,5
+87,female,20,50,sometimes,no,yes,no,no,7
+88,male,19,74,no,no,yes,no,no,5
+89,female,21,54,sometimes,no,no,no,no,5
+90,female,20,84,sometimes,no,no,no,no,5
+91,male,22,59,sometimes,no,yes,no,no,5
+92,female,20,45,no,no,no,no,yes,4
+93,female,15,55,yes,no,yes,no,yes,6
+94,female,19,35,yes,yes,no,no,yes,5
+95,male,21,83,sometimes,no,no,no,no,7
+96,female,21,,no,no,yes,no,yes,2
+97,female,20,,yes,no,yes,no,yes,4
+98,female,19,54,yes,no,no,no,no,6
+99,female,24,57,no,yes,no,no,no,9
+100,female,20,40,yes,no,no,no,yes,6
+101,male,21,85,sometimes,no,no,no,no,7
+102,female,23,,sometimes,no,yes,no,no,3
+103,female,23,,yes,no,no,no,no,10
+104,male,19,,sometimes,yes,yes,no,yes,8
+105,female,22,58,sometimes,no,yes,no,yes,2
+106,female,19,70,no,no,yes,yes,yes,2
+107,female,21,47,yes,no,no,no,,6
+108,male,21,,sometimes,yes,yes,no,yes,8
+109,male,25,68,yes,no,yes,no,yes,8
+110,female,16,54,sometimes,no,yes,no,no,6
+111,female,22,44,yes,yes,no,no,yes,4
+112,female,19,,yes,no,no,no,no,10
+113,male,18,103,no,no,no,no,no,1
+114,female,20,53,sometimes,no,no,no,no,1
+115,female,19,65,sometimes,no,yes,no,yes,3
+116,female,22,,no,no,yes,no,no,5
+117,female,19,75,no,no,no,no,no,4
+118,female,21,63,sometimes,no,no,no,yes,1
+119,female,21,63,sometimes,no,no,no,yes,1
+120,female,18,64,sometimes,no,yes,no,no,7
+121,female,20,58,no,no,no,no,no,10
+122,female,21,57,sometimes,no,no,no,no,10
+123,male,22,90,yes,no,yes,no,yes,3
+124,male,18,87,no,no,yes,no,yes,4
+125,female,21,58,no,no,no,no,no,1
+126,male,20,,yes,no,no,no,no,7
+127,female,22,58,yes,yes,no,no,yes,7
+128,male,20,71,sometimes,no,no,no,no,2
+129,female,20,48,sometimes,no,no,no,no,4
+130,female,19,60,no,no,,no,no,6
+131,male,19,74,sometimes,no,no,no,no,2
+132,male,20,56,sometimes,no,yes,no,yes,4
+133,female,19,,sometimes,no,yes,no,yes,8
+134,male,19,54,no,no,no,no,no,1
+135,female,20,55,sometimes,no,no,no,no,3
+136,female,22,58,sometimes,no,yes,no,no,5
+137,female,18,,sometimes,no,yes,no,yes,7
+138,female,20,66.4,yes,no,yes,no,yes,7
+139,male,18,65,no,no,no,no,yes,5
+140,male,23,70,no,no,yes,no,no,6
+141,female,19,58,yes,yes,yes,no,yes,8
+142,female,16,60,yes,no,no,no,yes,1
+143,,,,,,,,,
+144,male,21,54,no,no,yes,no,yes,8
+145,male,16,68,sometimes,yes,yes,no,no,9
+146,female,17,54,sometimes,no,yes,no,no,3
+147,male,,,sometimes,no,no,no,not student,2
+148,female,25,88,no,no,no,no,not student,3
+149,female,20,45,sometimes,no,no,no,yes,8
+150,female,20,45,sometimes,no,no,no,yes,8
+151,female,20,20,yes,no,yes,no,not student,5
+152,female,20,53,no,no,no,no,no,8
+153,female,17,61,sometimes,no,yes,no,not student,7
+154,male,22,64,yes,no,no,no,yes,2
+155,female,20,58,yes,no,yes,no,yes,8
+156,female,20,58,sometimes,no,no,no,yes,4
+157,male,22,62,sometimes,no,yes,no,yes,8
+158,female,23,50,yes,no,yes,no,not student,7
+159,female,23,50,yes,no,no,no,not student,6
+160,female,23,56,sometimes,no,yes,no,yes,6
+161,female,19,55,no,no,yes,no,yes,1
+162,female,18,42,yes,yes,no,no,no,8
+163,female,18,42,yes,yes,no,no,no,8
+164,female,18,45,yes,no,yes,no,not student,6
+165,female,19,,yes,no,yes,no,no,9
+166,female,19,45,sometimes,no,yes,no,no,8
+167,female,,,sometimes,no,no,no,no,5
+168,female,33,65,yes,no,yes,no,not student,10
+169,male,19,70,no,no,no,no,no,5
+170,female,20,70,yes,no,no,no,yes,7
+171,female,27,85,sometimes,no,no,no,not student,7
+172,female,21,63,sometimes,no,yes,no,yes,8
+173,female,24,45,yes,yes,yes,no,not student,10
+174,female,20,,no,no,yes,no,no,7
+175,female,20,54,no,no,no,no,no,5
+176,female,17,50,yes,yes,yes,no,yes,7
+177,male,22,50,yes,yes,yes,no,yes,8
+178,female,19,,no,no,yes,no,no,6
+179,female,20,53,sometimes,no,no,no,no,3
+180,female,,30,no,no,no,no,not student,1
+181,female,16,43,sometimes,no,yes,no,no,9
+182,female,17,46,no,no,no,no,no,5
+183,male,23,70,sometimes,no,no,no,yes,5
+184,male,22,68,no,no,yes,no,no,1
+185,male,22,77,sometimes,no,yes,no,no,7
+186,male,21,80,sometimes,no,no,no,yes,9
+187,male,21,62,yes,yes,yes,no,yes,10
+188,female,19,58,no,no,no,no,no,1
+189,male,24,75,yes,no,no,no,yes,7
+190,female,20,62,no,no,no,no,yes,3
+191,female,22,42,no,no,no,no,yes,6
+192,female,20,58,sometimes,no,yes,no,yes,8
+193,female,21,69,sometimes,no,no,no,no,7
+194,female,20,54,yes,yes,yes,no,no,9
+195,male,19,73,sometimes,no,no,no,yes,8
+196,female,20,64,yes,no,yes,no,yes,8
+197,female,20,56,sometimes,no,yes,no,no,4
+198,male,40,80,sometimes,no,yes,no,,2
+199,male,80,80,sometimes,no,yes,no,yes,3
+200,male,21,115,sometimes,no,no,no,yes,8
+201,male,39,98,no,no,no,no,no,1
+202,female,23,64,no,no,no,no,no,1
+203,female,27,55,yes,yes,yes,no,yes,4
+204,male,22,104,yes,no,no,no,yes,7
+205,male,20,70,sometimes,no,yes,no,yes,6
+206,male,21,75,no,no,no,no,no,4
+207,female,26,,yes,no,no,no,no,6
+208,male,24,68,sometimes,no,yes,no,no,4
+209,male,22,70,sometimes,no,yes,no,yes,1
+210,female,29,81,sometimes,no,no,no,yes,7
+211,male,19,59,sometimes,no,no,no,yes,7
+212,female,19,75,no,no,no,no,no,3
+213,female,19,51,no,no,yes,no,no,4
+214,female,19,73,sometimes,no,yes,no,yes,9
+215,male,20,80,no,no,no,no,no,8
+216,male,18,70,no,no,no,no,yes,6
+217,female,21,54,no,no,yes,no,no,5
+218,male,20,,no,no,no,no,no,1
+219,female,22,50,sometimes,yes,yes,no,no,10
+220,male,22,62.5,sometimes,no,no,no,no,3
+221,male,30,,sometimes,no,yes,no,no,2
+222,male,22,75,no,no,no,no,no,
+223,male,26,90,yes,no,yes,no,no,2
+224,male,19,77,no,no,yes,no,no,10
+225,male,21,74,sometimes,no,yes,no,yes,5
+226,female,23,63,no,no,no,no,no,1
+227,female,22,46,no,no,no,no,no,1
+228,male,21,55,no,no,no,no,yes,10
+229,female,19,40,sometimes,no,no,no,no,7
+230,male,19,60,yes,no,no,no,yes,2
+231,male,20,80,yes,no,no,no,yes,8
+232,male,20,,no,no,no,no,no,1
+233,female,19,,sometimes,no,yes,no,no,2
+234,male,16,120,no,no,no,no,no,7
+235,female,21,64,no,no,no,no,yes,3
+236,male,22,58,no,no,no,no,yes,3
+237,male,21,70,yes,no,yes,no,yes,2
+238,female,20,55,sometimes,no,no,yes,no,8
+239,female,22,,no,no,yes,no,no,3
+240,female,20,60,no,no,no,no,no,2
+241,female,21,52,yes,yes,yes,no,yes,9
+242,female,20,54,no,no,no,no,no,4
+243,female,20,70,no,no,no,no,yes,3
+244,male,21,56,yes,no,yes,no,yes,3
+245,male,20,55,no,no,no,no,no,6
+246,male,22,,sometimes,yes,yes,no,yes,4
+247,male,15,74,sometimes,yes,yes,no,no,5
+248,female,15,,sometimes,no,no,no,no,2
+249,female,23,52,yes,yes,yes,no,yes,9
+250,female,21,50,sometimes,no,no,no,yes,3
+251,female,22,64,sometimes,yes,yes,yes,yes,8
+252,male,24,63,sometimes,no,yes,no,no,3
+253,female,17,45,sometimes,no,no,no,yes,5
+254,male,15,65,no,no,no,no,no,1
+255,female,24,49,no,yes,yes,no,not student,5
+256,male,23,50,sometimes,no,no,no,yes,7
+257,male,16,60,yes,no,no,no,no,1
+258,male,25,71,no,no,no,no,not student,2
+259,male,17,,sometimes,no,no,no,no,4
+260,male,18,56,no,no,yes,no,no,2
+261,male,22,55,no,yes,yes,no,yes,10
+262,female,20,65,no,no,yes,no,yes,10
+263,female,22,60,yes,no,no,no,yes,7
+264,female,19,,sometimes,no,yes,no,no,6
+265,male,21,74,no,no,yes,no,yes,6
+266,male,15,,yes,no,no,no,yes,5
+267,female,20,,no,yes,no,no,yes,7
+268,male,22,,yes,no,yes,no,yes,7
+269,male,25,70,sometimes,yes,yes,no,yes,8
+270,female,21,52,yes,no,no,no,no,1
+271,male,20,80,no,no,no,no,yes,3
+272,male,20,,yes,yes,yes,no,no,7
+273,male,21,78,no,no,no,no,yes,6
+274,male,26,58,sometimes,no,no,no,no,10
+275,female,20,,no,no,no,no,no,1
+276,female,21,63,sometimes,no,yes,no,yes,9
+277,male,20,,sometimes,no,no,no,no,2
+278,male,50,,sometimes,no,yes,no,not student,2
+279,male,21,62,no,no,yes,no,yes,10
+280,male,45,85,no,no,yes,no,not student,7
+281,male,47,89,no,no,yes,no,no,2
+282,female,50,,no,no,no,no,not student,1
+283,male,49,,no,no,no,no,not student,2
+284,female,73,,no,no,yes,no,not student,1
+285,male,81,,no,no,yes,yes,not student,1
+286,male,25,,no,no,no,no,no,1
+287,male,21,60,no,no,no,no,no,2
+288,,,58,no,no,no,no,yes,6
+289,female,43,78,yes,no,no,no,not student,5
+290,female,43,,yes,no,no,no,not student,5
+291,female,,,sometimes,no,yes,no,not student,5
+292,male,47,87,yes,no,no,no,not student,5
+293,male,47,87,yes,no,no,no,not student,5
+294,male,57,97,sometimes,no,no,no,not student,1
+295,male,57,59,no,no,no,no,not student,1
